@@ -65,7 +65,7 @@ ul {
     background-image: url("images/bg-desktop.png");
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: -5px 130%;
+    background-position: -5px 100%;
 }
 @media (max-width:767px) {
     .fylo-content {
